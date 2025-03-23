@@ -40,3 +40,7 @@
 1. **Download the zip file with the application files:** [OnAir.zip](https://github.com/t0mer/OnAir/raw/refs/heads/main/OnAir.zip)
 
 
+
+https://github.com/user-attachments/assets/0967acd1-1a92-423c-a835-a51deebda3a0
+
+
