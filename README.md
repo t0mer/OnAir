@@ -79,4 +79,11 @@ The Hardware id is the part that starts with "VID" and ends with the "PID" value
 In the example, the hadware id will be: "VID_5986&amp;PID_2113".
 Remember to replace the **&** with **&amp;** due to the xml config file limitations. 
 
+Save the file and start the application.
 
+### Start the application with windows startup
+To start the application with windows start up, click on Winkey + R and insert the following command: **shell:startup**
+
+![image](https://github.com/user-attachments/assets/fedec3e0-54c6-42d7-863c-b66fa00449da)
+
+Then create a shortcut to the application executable file and place it in the startup folder.
