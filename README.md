@@ -37,7 +37,6 @@
 
 ## Installation
 
-1. **Clone the Repository:**
+1. **Download the zip file with the application files:** [OnAir.zip](https://github.com/t0mer/OnAir/raw/refs/heads/main/OnAir.zip)
 
-   ```bash
-   git clone https://github.com/YourUsername/OnAirMonitor.git
+
