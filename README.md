@@ -38,11 +38,12 @@
 ## Installation
 
 1. **Install and Configure on you esp32/esp8266 module**
+   
 https://github.com/user-attachments/assets/0967acd1-1a92-423c-a835-a51deebda3a0
 
-2. **Download the zip file with the application files:** [OnAir.zip](https://github.com/t0mer/OnAir/raw/refs/heads/main/OnAir.zip)
+3. **Download the zip file with the application files:** [OnAir.zip](https://github.com/t0mer/OnAir/raw/refs/heads/main/OnAir.zip)
 
-3. **Exctract the files from the downloaded zip** and edit OnAir.exe.config file**
+4. **Exctract the files from the downloaded zip** and edit OnAir.exe.config file**
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
@@ -71,7 +72,9 @@ https://github.com/user-attachments/assets/0967acd1-1a92-423c-a835-a51deebda3a0
   * NoMeetingWithCameraPreset
   * NoMeetingWithoutCameraPreset
 * Set the camera hardware id. you can get the value from the device manager
+  
 ![image](https://github.com/user-attachments/assets/adbb19dc-c162-4794-ae9a-1bd8e402a605)
+
 The Hardware id is the part that starts with "VID" and ends with the "PID" value.
 In the example, the hadware id will be: "VID_5986&amp;PID_2113".
 Remember to replace the **&** with **&amp;** due to the xml config file limitations. 
